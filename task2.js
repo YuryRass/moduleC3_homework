@@ -7,5 +7,4 @@ function checkObject(str, obj) {
 }
 
 const obj = {2: 4, '343': 44, 'bkd': '343', 'ew': true};
-const res = checkObject(2, obj);
-console.log(res)
+console.log(checkObject(2, obj));
