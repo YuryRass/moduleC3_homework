@@ -17,8 +17,6 @@ class ElectroDevice {
     }
 }
 
-
-
 // функция-конструктор Компьютер:
 class Computer extends ElectroDevice {
     constructor(name, model, cost, ram, lengthOfDiagonal, power) {
