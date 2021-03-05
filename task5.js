@@ -29,7 +29,6 @@ class Computer extends ElectroDevice {
     }
 }
 
-
 //функция-конструктор Стиральная машина:
 class Washer extends ElectroDevice {
     constructor(name, model, cost, weight, volume, power) {
